@@ -3,7 +3,7 @@
 ## Project Overview
 Scam calls are a growing cybersecurity threat, and existing caller identification solutions like Truecaller often fail to detect sophisticated phishing attempts. This project aims to build an AI-powered scam call detection system that analyzes call audio and transcripts to determine whether a call is fraudulent.
 
-![Phishing Detection](phishing.png)
+![Phishing Detection](phishing.jpg)
 
 
 ## Features
